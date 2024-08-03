@@ -1,0 +1,15 @@
+{
+    "diagnostics.globals": [
+        "playdate",
+        "AnimatedSprite",
+        "import"
+    ],
+    "diagnostics.disable": [
+        "undefined-doc-class",
+        "undefined-global",
+        "lowercase-global",
+        "empty-block",
+    ],
+    "runtime.version": "Lua 5.4",
+    "runtime.nonstandardSymbol": ["+=", "-=", "*=", "/="]
+}
